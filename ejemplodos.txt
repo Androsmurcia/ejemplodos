@@ -2,3 +2,12 @@ Pasos para subir
 crear un commit en un repositorio local 
 git init
 hacer commit
+vincular con github 
+
+copiar git branch -M main ponerlo en la consola 
+
+pegar git remote add origin https://github.com/Androsmurcia/ejemplodos.git en la consola
+
+subir codigo a repositorio remoto          git push -u origin main
+
+
