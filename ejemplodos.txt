@@ -1,0 +1,4 @@
+Pasos para subir 
+crear un commit en un repositorio local 
+git init
+hacer commit
